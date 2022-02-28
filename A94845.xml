@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The triall of Judge Jengins [sic] at the House of Commons barre: upon an impeachment of high-treason, on Munday last, Februa. 21. 1647. With heads of the charge read against him. And his answer. Also the votes of the House of Commons thereupon.</title>
+            <author>Jenkins, David, 1582-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94845</idno>
+            <idno type="STC">Wing T2194</idno>
+            <idno type="STC">Thomason E428_14</idno>
+            <idno type="STC">ESTC R204224</idno>
+            <idno type="EEBO-CITATION">99863882</idno>
+            <idno type="PROQUEST">99863882</idno>
+            <idno type="VID">116098</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94845)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116098)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E428[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The triall of Judge Jengins [sic] at the House of Commons barre: upon an impeachment of high-treason, on Munday last, Februa. 21. 1647. With heads of the charge read against him. And his answer. Also the votes of the House of Commons thereupon.</title>
+                  <author>Jenkins, David, 1582-1663.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson in Smithfield, neere the Queens-head Tavern 1648. Feb. 21: imprimatur, Gilb. Mabbot,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb: 22"; publication date altered to 1647.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jenkins, David, 1582-1663 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Trials (Treason) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116098:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 74 -->
+            <p>THE TRIALL OF <hi>J<g ref="char:V">Ʋ</g>DGE JENGINS</hi> At the Houſe of COMMONS BARRE: UPON An Impeachment of High-Treaſon, on Munday laſt, <hi>Februa.</hi> 21. 1647.</p>
+            <p>WITH <hi>Heads of the Charge read againſt him.</hi> And his ANSWER.</p>
+            <p>ALSO The Votes of the Houſe of <hi>Commons</hi> thereupon.</p>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitſon</hi> in <hi>Smithfield,</hi> neere the Queens-head Tavern. 1647.</p>
+            <q>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="imprimatur">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Feb.</hi> 21:</date>
+                           </dateline>
+                        </opener>
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <signed>Gilb. Mabbot.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116098:2"/>
+            <!-- PDF PAGE 75 -->
+            <pb n="1" facs="tcp:116098:2"/>
+            <!-- PDF PAGE 75 -->
+            <head>THE Tryall of Judge JENKINS at the Houſe of Commons Barre, upon an Impeachment of High-TREASON.</head>
+            <opener>
+               <dateline>
+                  <date>Die Lunae 21 Februa. 1647.</date>
+               </dateline>
+            </opener>
+            <p>MR. <hi>Wollaſton,</hi> the Keeper of <hi>New-gate,</hi> brought Mr. <hi>David Jenkins,</hi> formerly a Judge in <hi>Wales,</hi> now a Priſoner in that Gaole, committed for <hi>High Treaſon,</hi> by the Houſe of Commons, to the Commons Barre, accord<g ref="char:EOLhyphen"/>ing to an Order of the Houſe ſent to him on Saturday laſt, <hi>Feb</hi> 19. 1647.</p>
+            <p>The Houſe being acquainted that he was at the doore, appointed the Sergeant at Armes to call him in, and according he was brought to the Barre, with the Mace before him.</p>
+            <p>Mr. Speaker (according to the Order of the Houſe, he being a Delinquent, brought upon his Tryall) commanded him to kneele down
+<pb n="4" facs="tcp:116098:3"/>
+               <!-- PDF PAGE 76 -->
+but he refuſed, onely put off his hat, and looked round about the Houſe: and being told that he ought to kneel, yet (although he hath been a Judge himſelf, and knew the Laws, and that he ought to kneele and ſubmit to the Houſe in a Parliamentary way) he ſtill continued obſtinate, and would not kneele at all.</p>
+            <p>The Houſe proceeded to the reading of a Charge of High-Treaſon, and other high-Miſdemeanors againſt him, (divers witneſſes being then ready at the doore, if occaſion was, for them, or any of them, to be called in, ſome of the Collections of the Charge are to this effect, Viz.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="charge_of_treason">
+                        <head>Heads of a particular Charge of High Treaſon, and other high miſdemeanors, againſt Mr. <hi>David Jenkins,</hi> read in the Houſe of Commons on Munday the 21 of <hi>Feb.</hi> 1647. He being then at the Barre.</head>
+                        <p n="1">1 <hi>That the ſaid</hi> David Jinkins, <hi>to the betray<g ref="char:EOLhyphen"/>ing of the truſt repoſed in him, he being a Judge in</hi> Wales.) <hi>did condemne ſeverall innocent men to ſuf<g ref="char:EOLhyphen"/>fer death, for ayding and aſsiſting the Parliament.</hi>
+                        </p>
+                        <p n="2">2 <hi>That he did himſelfe in perſon take up armes actually against the Parliament, contrary to the known Laws of the Land, to deſtroy them.</hi>
+                        </p>
+                        <p n="3">3 <hi>That, in a Traytors manner, the ſaid</hi> David Jinkins, <hi>did ſtirre up, and combine Forces to the diſturbance of the peace of the Kingdome, and actu<g ref="char:EOLhyphen"/>ally
+<pb facs="tcp:116098:3"/>
+                              <!-- PDF PAGE 76 -->
+levy warre againſt the Parliament.</hi>
+                        </p>
+                        <p n="4">4 <hi>That the ſaid</hi> David Jenkins <hi>hath (traiterouſly a<g ref="char:EOLhyphen"/>gainſt the Parliament and the peace of the Kingdome) charged the Parliament, and the Commiſsioners of the Great Seale, with counterfeitting of a Great Seale. And oppoſed the power of the great Seale, as illegall, becauſe it was not delivered to them by his Majeſty, and in a ſe<g ref="char:EOLhyphen"/>ditious manner, charged the Commiſsioners of the ſaid Great Seale, to have neither Court, Seale, or Commiſsion, and therefore not to be ſubmitted to.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Theſe (with other particulars) were at large charged againſt him, at the Barre in the Houſe of Commons, being drawn up upon the examining of witneſſes, were read unto him.</p>
+            <p>After which M. Speaker by Order of the Houſe ask<g ref="char:EOLhyphen"/>ed him what he had to ſay for himſelf?</p>
+            <p>
+               <hi>David Jenkins</hi> ſaid, that they had no power to try him, and at the Barre in the open Houſe, gave very contemptuous words, and reproaches againſt the Hou<g ref="char:EOLhyphen"/>ſes, and the power of Parliaments. And by a ſediti<g ref="char:EOLhyphen"/>ous conſtruction quoted divers Authours, to traduce the power, and proceedings of the Parliament, with much venome and ſpleen.</p>
+            <p>He was called in twice but went on in obſtinancy in oppoſition to the Houſe hee ſpake much, and ſtill in contempt of the Power of Parliament.</p>
+            <p>He ſaid that ſix yeares ſince the difference between the King and the Parliament was about the Militia, pleading for the King to have it, both by ſea and land and (whereby it is manifect he ſeeks to ruine the Pub<g ref="char:EOLhyphen"/>licke weale) He ſaid that Kings formerly did not en<g ref="char:EOLhyphen"/>ter into covenant with the people to maintain the Law of the Land, but only to be mercifull to the people.</p>
+            <p>
+               <pb n="4" facs="tcp:116098:4"/>
+               <!-- PDF PAGE 77 -->Hee threatned the Parliament with the Kings numerous iſſue, of the many perſons in <hi>Scotland,</hi> of the Blood-Royall, and that du<g ref="char:EOLhyphen"/>ring their life <hi>England</hi> ſhall have neither peace nor profit.</p>
+            <p>With divers other Reproachful words, ſuch as the like were never offered in the face of a Parliament.</p>
+            <p>After that he came out of the Houſe, he put off his hat, and ſpake to this effect, before the Souldiers of the Guard, and divers Gentlemen at the doore.<lb/>
+               <q>
+                  <hi>Gentlemen, God bleſſe you all, Protect the Laws of the King<g ref="char:EOLhyphen"/>dome,</hi>
+               </q>
+               <lb/>
+When he was with drawn, ſome Gentle<g ref="char:EOLhyphen"/>men had diſcourſe with him in the Lobby, neer the Houſe of Commons doore, to ſee what reaſons he could give for his obſtinate malignant practiſes againſt the Parliament, and the peace of the Kingdome, who ſhewed him, how contrary to law it was for him, or a<g ref="char:EOLhyphen"/>ny other, to oppoſe the power of Parliament.</p>
+            <p>He pleaded ſtill that there can be no Law without the <hi>King,</hi> nor repeale of Laws with<g ref="char:EOLhyphen"/>out
+<pb n="5" facs="tcp:116098:4"/>
+               <!-- PDF PAGE 77 -->
+him, and ſpeaking diſgracefully of the power of the Parliament.</p>
+            <p>But when he was asked what obedience ſhould be given to a <hi>King,</hi> that ſhould be di<g ref="char:EOLhyphen"/>ſtracted, or not capable to Govern, or that, in malice, againſt his people went about to de<g ref="char:EOLhyphen"/>ſtroy them, and whether the Parliament ought not in ſuch a caſe to protect the people this and ſome other arguments alledged to him, did much puzzle him to anſwer them.</p>
+            <p>In the mean time the houſe of Commons went upon a debate concerning him, and made ſeverall Votes, viz.</p>
+            <p n="1">i <hi>That the carriage of the ſaid</hi> David Jenkins <hi>in oppoſition to the Houſe, is an high contempt and miſdemeanour.</hi>
+            </p>
+            <p n="2">2 <hi>That the ſaid contempt is a breach of the Pri<g ref="char:EOLhyphen"/>viledges of Parliament.</hi>
+            </p>
+            <p n="3">3 <hi>That for the ſaid contempt againſt the Houſe he ſhall be fined a thouſand pound.</hi>
+            </p>
+            <p n="4">4 <hi>That he be carryed back to the priſon of New-gate.</hi>
+            </p>
+            <p>Then the Houſe proceeded upon an Ordi<g ref="char:EOLhyphen"/>nance againſt him, which hath been twice
+<pb n="6" facs="tcp:116098:5"/>
+               <!-- PDF PAGE 78 -->
+read, but before it paſſe, he is to receive a full tryall.</p>
+            <p>And for that purpoſe, all the witneſſes are to be ſummoned in, and examined before the whole Houſe; and they are alſo to be ſworn, and examined before the Lords.</p>
+            <p>The ſaid Mr. <hi>David Jenkens,</hi> is to be pre<g ref="char:EOLhyphen"/>ſent at the examinations of the witneſſes, and to give in his Anſwers, and in this method the Houſes are to proceed to his Triall, and ſo to Judgement.</p>
+            <p>And in the mean time he is Ordered to be kept priſoner in <hi>New-gate</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <opener>
+               <dateline>
+                  <date>Feb 21.. 1647.</date>
+               </dateline>
+            </opener>
+            <p>Imprimatur</p>
+            <closer>
+               <signed>Gil. Mabbot.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
